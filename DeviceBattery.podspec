@@ -3,7 +3,7 @@ require 'json'
 package = JSON.parse(File.read(File.join(__dir__, 'package.json')))
 
 Pod::Spec.new do |s|
-  s.name                = "react-native-device-battery"
+  s.name                = "DeviceBattery"
   s.version             = package['version']
   s.author              = { "robinpowered" => "engineering@robinpowered.com" }
   s.license             = 'Apache'
