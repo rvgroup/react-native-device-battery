@@ -1,6 +1,6 @@
 {
   "name": "react-native-device-battery",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Observe battery state changes in your react native application",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/robinpowered/react-native-device-battery.git"
+    "url": "git+ssh://git@github.com/rvgroup/react-native-device-battery.git"
   },
   "keywords": [
     "react",
